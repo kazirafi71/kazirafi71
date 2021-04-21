@@ -10,6 +10,7 @@ This is **Kazi Musaddi Rafi**.
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kazirafi71" alt="kzirafi71" /> </p>
 
   
 
