@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&layout=compact&theme=radical" alt="shourov-sorkar"/>
+</a>
+
 <!--
 **kazirafi71/kazirafi71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
