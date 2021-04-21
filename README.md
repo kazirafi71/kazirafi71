@@ -18,9 +18,9 @@ This is **Kazi Musaddi Rafi**.
 
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&layout=compact&theme=radical" alt="kazirafi71"/>
-</a>
+<img width="550" alt="Dhrubo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=kazirafi71&show_icons=true"/>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
 
 <!--
 **kazirafi71/kazirafi71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
