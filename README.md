@@ -3,8 +3,8 @@
 This is **Kazi Musaddi Rafi**. 
 
 
-- Student at **Bangladesh University of Professionals (BUP)**
-      Department of **Information and Communication Engineering**
+- Currently studying at **Bangladesh University of Professionals (BUP)**<br/>
+      Department of **Information and Communication Engineering (ICE)**
       
 #### I dalily use:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
