@@ -6,7 +6,7 @@ This is **Kazi Musaddi Rafi**.
 - Student at **Bangladesh University of Professionals (BUP)**
       Department of **Information and Communication Engineering**
       
-# I dalily use:
+#### I dalily use:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-8fcfd1?style=plastic&logo=nodejs)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
