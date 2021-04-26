@@ -24,7 +24,7 @@
 <a href="">
 
 
-<img width="550" alt="Kazi Musaddi Rafi's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=kazirafi71&show_icons=true"/><br/>
+
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
 
