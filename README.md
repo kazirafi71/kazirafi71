@@ -27,4 +27,14 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
 
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazirafi71&count_private=true)
+
+
+
+
+
+
+
+
+
 
