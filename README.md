@@ -5,7 +5,13 @@
 
 <p align="center"> <b>Student at Bangladesh University of Professionals (BUP) <b/><br/>
       Department of <b>Information and Communication Engineering (ICE)</b> </P>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazirafi71" alt="kzirafi71" /> </p>    
+<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazirafi71" alt="kzirafi71" /> </p>     -->
+ 
+ ---
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/kazirafi71/count.svg" />
+</p>
 
   
 
@@ -24,10 +30,15 @@
 
 
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazirafi71&" alt="" /><br/>
+
+
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazirafi71&count_private=true)
+<br/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
 
-![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazirafi71&count_private=true)
+
 
 
 
