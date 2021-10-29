@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kazi Musaddi Rafi</a></h1>
-<h3 align="center">MERN Stack Web Developer</h3> <br/>
+<h3 align="center">Full Stack Web Developer</h3> <br/>
 
 <p align="center"> <b>Student at Bangladesh University of Professionals (BUP) <b/><br/>
       Department of <b>Information and Communication Engineering (ICE)</b> </P>
