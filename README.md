@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kazi Musaddi Rafi</a></h1>
-<h3 align="center">Full Stack Web Developer</h3> <br/>
+<h4 align="center">Full Stack Web Developer | Nodejs | Reactjs | MongoDB | Python | Machine Learning  | Deep Learning </h4> <br/>
 
 <p align="center"> <b>Student at Bangladesh University of Professionals (BUP) <b/><br/>
       Department of <b>Information and Communication Engineering (ICE)</b> </P>
