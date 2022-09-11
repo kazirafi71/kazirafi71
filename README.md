@@ -38,6 +38,8 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
 
+![](https://leetcard.jacoblin.cool/kazirafi668?border=0&radius=20)
+
 
 
 
