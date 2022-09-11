@@ -28,7 +28,7 @@
   
 
 
-![](https://leetcard.jacoblin.cool/kazirafi668?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/kazirafi668??theme=light)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazirafi71&" alt="" /><br/>
 
